@@ -1,0 +1,3 @@
+C:\Users\joaoa\Beef\Beef\bin\Release\net6.0\win-x86\publish\Beef.dll
+C:\Users\joaoa\Beef\Beef\bin\Release\net6.0\win-x86\publish\Beef.deps.json
+C:\Users\joaoa\Beef\Beef\bin\Release\net6.0\win-x86\publish\Beef.pdb
