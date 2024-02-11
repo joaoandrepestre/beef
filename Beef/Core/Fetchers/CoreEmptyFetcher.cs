@@ -1,4 +1,4 @@
-using Beef.Core.Types.Requests;
+using Beef.Types.Core.Requests;
 
 namespace Beef.Core.Fetchers; 
 

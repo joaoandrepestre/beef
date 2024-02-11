@@ -1,7 +1,6 @@
-using System.Security.AccessControl;
-using Beef.Core.Types;
-using Beef.Core.Types.Requests;
-using Beef.Core.Types.Responses;
+using Beef.Types.Core;
+using Beef.Types.Core.Requests;
+using Beef.Types.Core.Responses;
 
 namespace Beef.Core.Fetchers;
 
